@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "代替嬉々",
+  "base_artist": "花譜",
+  "createdAt": "2026-03-11T06:21:15.371528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "代替嬉々",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_代替嬉々_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "代替嬉々",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_代替嬉々_花譜.txt"
+    }
+  ]
+}
